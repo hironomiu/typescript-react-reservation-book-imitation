@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useLayoutEffect, useRef } from 'react'
 import json from '../data.json'
 
 const col = [
@@ -36,6 +36,16 @@ const seats: Seat[] = [
 
 const Main = () => {
   const [data] = useState<any>(() => json.reservedData)
+  const scrollRef = useRef<null | HTMLTableCellElement>(null)
+
+  // MEMO: divを埋め込んで特定の時刻に合わせる（但し現時点では右端を指定する形なので中央に表示したいカラムにしたい場合は要検討）
+  useLayoutEffect(() => {
+    if (scrollRef) {
+      if (scrollRef.current) {
+        scrollRef.current.scrollIntoView()
+      }
+    }
+  }, [])
 
   return (
     <div className="flex flex-col justify-center items-center mx-4 w-screen">
@@ -92,6 +102,7 @@ const Main = () => {
                               </span>
                             )
                           ) : null}
+                          {index === 23 ? <div ref={scrollRef}></div> : null}
                         </td>
                       )
                     )}
