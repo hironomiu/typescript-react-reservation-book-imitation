@@ -102,7 +102,8 @@ const Main = () => {
                               </span>
                             )
                           ) : null}
-                          {index === 23 ? <div ref={scrollRef}></div> : null}
+                          {/* MEMO: overflow-x-autoの右端を指定（現時点では） */}
+                          {index === 17 ? <div ref={scrollRef}></div> : null}
                         </td>
                       )
                     )}
