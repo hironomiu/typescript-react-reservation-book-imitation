@@ -1,5 +1,17 @@
 # typescript-react-reservation-book-imitation
 
+## SetUp
+
+```
+npm install
+```
+
+## Run
+
+```
+npm start
+```
+
 ## Install Memo
 
 ```
