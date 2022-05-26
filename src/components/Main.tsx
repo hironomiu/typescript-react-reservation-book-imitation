@@ -29,6 +29,8 @@ const col = [
   '２３時〜',
 ]
 
+const POSITION = 17
+
 const Main = () => {
   const [data] = useState<any>(() => json.reservedData)
   const scrollRef = useRef<null | HTMLTableCellElement>(null)
@@ -83,7 +85,7 @@ const Main = () => {
                             )
                           ) : null}
                           {/* MEMO: overflow-x-autoの右端を指定（現時点では） */}
-                          {index === 17 ? <div ref={scrollRef}></div> : null}
+                          {index === POSITION ? <div ref={scrollRef}></div> : null}
                         </td>
                       )
                     )}
