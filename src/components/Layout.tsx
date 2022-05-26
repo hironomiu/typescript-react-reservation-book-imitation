@@ -4,7 +4,7 @@ import Main from './Main'
 
 const Layout = () => {
   return (
-    <div>
+    <div className=" overflow-hidden">
       <Header />
       <Main />
     </div>
