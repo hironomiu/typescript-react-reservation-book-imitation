@@ -39,7 +39,7 @@ const Main = () => {
 
   return (
     <div className="flex flex-col justify-center items-center mx-4 w-screen">
-      <div className="text-2xl mt-10">{data.ymd}</div>
+      <div className="text-2xl mt-6">{data.ymd}</div>
       <div className="flex mx-4 mt-4 w-screen">
         <table className="border-collapse border-2 border-gray-500 text-sm mr-4">
           <thead className="bg-gray-300 text-xs">
