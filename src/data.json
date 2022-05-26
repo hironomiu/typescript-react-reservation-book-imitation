@@ -1,0 +1,396 @@
+{
+  "reservedData": {
+    "ymd": "20220101",
+    "key": "1",
+    "data": [
+      {
+        "0": {
+          "isReserved": true,
+          "next": true,
+          "prev": false,
+          "colSpan": 2,
+          "title": "0時 3名(大人2名、子供1名)",
+          "reservedId": "1"
+        },
+        "1": {
+          "isReserved": true,
+          "next": false,
+          "prev": true,
+          "colSpan": 1,
+          "title": "0時 3名(大人2名、子供1名)",
+          "reservedId": "1"
+        },
+        "2": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "3": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "4": {
+          "isReserved": true,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "4時 大人2名",
+          "reservedId": "4"
+        },
+        "5": {
+          "isReserved": true,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "5時 大人3名",
+          "reservedId": "5"
+        },
+        "6": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "7": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "8": {
+          "isReserved": true,
+          "next": true,
+          "prev": false,
+          "colSpan": 3,
+          "title": "8時 5名(大人3名、子供2名)",
+          "reservedId": "2"
+        },
+        "9": {
+          "isReserved": true,
+          "next": true,
+          "prev": true,
+          "colSpan": 1,
+          "title": "8時 5名(大人3名、子供2名)",
+          "reservedId": "2"
+        },
+        "10": {
+          "isReserved": true,
+          "next": false,
+          "prev": true,
+          "colSpan": 1,
+          "title": "時 5名(大人3名、子供2名)",
+          "reservedId": "2"
+        },
+        "11": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "12": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "13": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "14": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "15": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "16": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "17": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "18": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "19": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "20": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "21": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "22": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "23": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        }
+      },
+      {
+        "0": {
+          "isReserved": true,
+          "next": true,
+          "prev": false,
+          "colSpan": 2,
+          "title": "0時 3名(大人2名、子供1名)",
+          "reservedId": "1"
+        },
+        "1": {
+          "isReserved": true,
+          "next": false,
+          "prev": true,
+          "colSpan": 1,
+          "title": "0時 3名(大人2名、子供1名)",
+          "reservedId": "1"
+        },
+        "2": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "3": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "4": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "5": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "6": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "7": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "8": {
+          "isReserved": true,
+          "next": true,
+          "prev": false,
+          "colSpan": 3,
+          "title": "8時 5名(大人3名、子供2名)",
+          "reservedId": "2"
+        },
+        "9": {
+          "isReserved": true,
+          "next": true,
+          "prev": true,
+          "colSpan": 1,
+          "title": "8時 5名(大人3名、子供2名)",
+          "reservedId": "2"
+        },
+        "10": {
+          "isReserved": true,
+          "next": false,
+          "prev": true,
+          "colSpan": 1,
+          "title": "時 5名(大人3名、子供2名)",
+          "reservedId": "2"
+        },
+        "11": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "12": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "13": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "14": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "15": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "16": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "17": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "18": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "19": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "20": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "21": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "22": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        },
+        "23": {
+          "isReserved": false,
+          "next": false,
+          "prev": false,
+          "colSpan": 1,
+          "title": "",
+          "reservedId": ""
+        }
+      }
+    ]
+  }
+}
