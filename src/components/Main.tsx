@@ -39,9 +39,9 @@ const Main = () => {
 
   return (
     <div className="flex flex-col justify-center items-center mx-4 w-screen">
-      <div className="text-2xl mt-6">{data.ymd}</div>
+      <div className="text-2xl mt-6 text-gray-500">{data.ymd}</div>
       <div className="flex mx-4 mt-4 w-screen">
-        <table className="border-collapse border-2 border-gray-500 text-sm mr-4">
+        <table className="border-collapse border-[1px] border-gray-500 text-sm mr-4">
           <thead className="bg-gray-300 text-xs">
             <tr className="h-10">
               <th className="border border-gray-400 w-32 text-gray-800">座席</th>
@@ -59,7 +59,7 @@ const Main = () => {
         </table>
         <div className="overflow-x-auto ">
           <div className=" md:w-[600px] lg:w-[800px] xl:w-[1000px]">
-            <table className="border-collapse border-2 border-gray-500 text-sm w-[1300px]">
+            <table className="border-collapse border-[1px] border-gray-500 text-sm w-[1300px]">
               <thead className="bg-gray-300 text-xs ">
                 <tr className="h-10">
                   {col.map((c, index) => (
